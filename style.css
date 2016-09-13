@@ -1,0 +1,42 @@
+.picture_container > img {
+	border: blue solid 10px;
+	background-color: black;
+	padding-top: 10px;
+	padding-right: 10px;
+	}
+.bold {
+	font-weight: bold;
+}
+
+.bold_italic {
+	font-weight: bold;
+	font-style:italic;
+
+	}
+.bold_italic_underlined {
+	font-weight: bold;
+	font-style:italic;
+	text-decoration: underline;
+}
+
+.tiled_container > div {
+	width: 100%
+	background-color:white;
+	height: 10px;
+	border-top: 5px
+	border-bottom:5px;
+	border: 5px solid black;
+
+
+}
+
+	}/* Put your CSS rules here: */
+
+
+
+
+
+/* These are for the exercise, please don't edit them! */
+html,body{margin:0;padding:0;}
+body{font-family:sans-serif;}
+.content{width:980px;padding:10px;}
